@@ -1,0 +1,4 @@
+karin,15
+martin,10
+abdullah,9
+hussein,14
